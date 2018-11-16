@@ -1,0 +1,82 @@
+* {
+	box-sizing: border-box;
+}
+
+h2 {
+	text-align: center;
+}
+
+.menuBar a {
+	margin-right: 10px;
+}
+
+.menuBar {
+	text-align: center;
+}
+
+.imgHolder {
+	text-align: center;
+	position: relative;
+}
+
+.imgHolder img {
+	width: 50%;
+	height: auto;
+}
+
+.imgHolder .chequeFrom {
+	position: absolute;
+	left: 35%;
+	top: 46%;
+	color: #689172;
+}
+
+.imgHolder .chequeAmountTxt {
+	position: absolute;
+	left: 35%;
+	top: 59%;
+	color: #689172;
+}
+
+.imgHolder .chequeAmountNum {
+	position: absolute;
+	left: 59%;
+	top: 59%;
+	color: #689172;
+}
+
+.imgHolder .chequePurpose {
+	position: absolute;
+	left: 35%;
+	top: 71%;
+	color: #689172;
+}
+
+.imgHolder .educationTo {
+	position: absolute;
+	width: 100%;
+	text-align: center;
+	top: 28%;
+	text-align: center;
+	color: #212024;
+}
+
+.imgHolder .educationOf {
+	position: absolute;
+	width: 100%;
+	text-align: center;
+	top: 41%;
+	text-align: center;
+	color: #212024;
+}
+
+.imgHolder .healthTo {
+	position: absolute;
+	top: 33%;
+	left: 31.5%;
+	color: #303030;
+}
+
+.inputField {
+	padding-left: 100px;
+}
