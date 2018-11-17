@@ -21,3 +21,4 @@ Warning
 -Do not Delete Any file/image from the folders. The project may not work properly
 -Do not change the names of the files. The project may not work properly
 -Do not cahange the location of any file. The project may not work
+-Do not change the names of the files. The project may not work properly
